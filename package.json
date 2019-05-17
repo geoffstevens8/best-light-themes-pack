@@ -1,0 +1,29 @@
+{
+    "name": "best-light-themes-pack",
+    "displayName": "Best Light Themes Pack",
+    "description": "Ultimate pack of light themes",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/geoffstevens8/best-light-themes-pack"
+    },
+    "icon": "icon.png",
+    "extensionPack": [ 
+        "akamud.vscode-theme-onelight",
+        "uloco.theme-bluloco-light", 
+        "eryouhao.brackets-light-pro", 
+        "xaver.theme-ysgrifennwr", 
+        "obrejla.netbeans-light-theme", 
+        "onecrayon.theme-quietlight-vsc", 
+        "bubersson.theme-hop-light", 
+        "sh4dow.theme-notepadplusplusremixed", 
+        "Hyzeta.vscode-theme-github-light",
+        "thenikso.github-plus-theme"
+    ]
+}
