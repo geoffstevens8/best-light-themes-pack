@@ -6,13 +6,13 @@ All notable changes to the extension pack will be documented in this file.
 
 ## [1.0.0] - 2019-5-15
 ### Added
-* Added theme [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
-* Added theme [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
-* Added theme [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
-* Added theme [Palenight](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
-* Added theme [One Monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
-* Added theme [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
-* Added theme [Andromeda](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda)
-* Added theme [Darcula](https://marketplace.visualstudio.com/items?itemName=rokoroku.vscode-theme-darcula)
-* Added theme [Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode)
-* Added theme [Cobalt2](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
+* Added theme [Atom One Light](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)
+* Added theme [Bluloco Light](https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-light)
+* Added theme [Brackets Light Pro](https://marketplace.visualstudio.com/items?itemName=eryouhao.brackets-light-pro)
+* Added theme [Ysgrifennwr](https://marketplace.visualstudio.com/items?itemName=xaver.theme-ysgrifennwr)
+* Added theme [NetBeans Light](https://marketplace.visualstudio.com/items?itemName=obrejla.netbeans-light-theme)
+* Added theme [Quiet Light](https://marketplace.visualstudio.com/items?itemName=onecrayon.theme-quietlight-vsc)
+* Added theme [Hop Light](https://marketplace.visualstudio.com/items?itemName=bubersson.theme-hop-light)
+* Added theme [NotepadPlusPlus Remixed](https://marketplace.visualstudio.com/items?itemName=sh4dow.theme-notepadplusplusremixed)
+* Added theme [GitHub Light](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light)
+* Added theme [GitHub Plus](https://marketplace.visualstudio.com/items?itemName=thenikso.github-plus-theme)
