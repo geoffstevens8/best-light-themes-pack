@@ -16,6 +16,10 @@
         "url": "https://github.com/geoffstevens8/best-light-themes-pack"
     },
     "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#384357",
+        "theme": "dark"
+      },
     "extensionPack": [ 
         "akamud.vscode-theme-onelight",
         "uloco.theme-bluloco-light", 
