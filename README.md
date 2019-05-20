@@ -4,7 +4,7 @@
 
 The best light themes for Visual Studio Code are now available as a single package, so you don't have to manually install them one by one. 
 
-I love building tools that make developers happy. You should also check out another extension I am contributing to called [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode)
+I love building tools that make developers happy. You should also check out another extension I am contributing to called [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode).
 
 The light themes pack includes: 
 
