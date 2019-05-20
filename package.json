@@ -8,7 +8,8 @@
         "vscode": "^1.33.0"
     },
     "categories": [
-        "Extension Packs"
+        "Extension Packs",
+        "Themes"
     ],
     "repository": {
         "type": "git",
