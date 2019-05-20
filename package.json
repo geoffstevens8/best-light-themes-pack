@@ -2,7 +2,7 @@
     "name": "best-light-themes-pack",
     "displayName": "Best Light Themes Pack",
     "description": "Ultimate pack of light themes",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "thegeoffstevens",
     "engines": {
         "vscode": "^1.33.0"
