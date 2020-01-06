@@ -4,9 +4,11 @@
 
 The best light themes for Visual Studio Code are now available as a single package, so you don't have to manually install them one by one. 
 
-I love building tools that make developers happy. You should also check out another extension I am contributing to called [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode).
+I love building tools that make developers happy. If you like this extension pack, you should also check out my other projects: 
+* [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode): VS Code extension for automatic programming metrics and time-tracking, right in your editor
+* [SRC](https://www.software.com/src): a strategic summary of the developer world in ten minutes or less—once a week, right to your inbox
 
-The light themes pack includes: 
+The **Best Light Themes Pack** includes: 
 
 * [Atom One Light](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)
 * [Bluloco Light](https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-light)

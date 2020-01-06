@@ -16,3 +16,7 @@ All notable changes to the extension pack will be documented in this file.
 * Added theme [NotepadPlusPlus Remixed](https://marketplace.visualstudio.com/items?itemName=sh4dow.theme-notepadplusplusremixed)
 * Added theme [GitHub Light](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light)
 * Added theme [GitHub Plus](https://marketplace.visualstudio.com/items?itemName=thenikso.github-plus-theme)
+
+## [1.0.2] - 2020-1-6
+### Added
+* Updated README with new information
